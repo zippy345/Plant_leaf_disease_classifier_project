@@ -40,7 +40,7 @@ It contains labeled images of potato leaves under 10 categories
  - Image collection: Captured under field and controlled lighting conditions
 
 **Libraries Used**
-
+`Tensorflow`, `matplotlib`, `seaborn`, `sklearn`
 
 ## Data Preparation and EDA
 
