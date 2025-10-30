@@ -72,11 +72,12 @@ Class weights were computed to balance the model’s learning process. This ensu
 Exploratory Data Analysis was conducted to better understand the structure and composition of the dataset before model training.
 1. Visual Inspection of Sample Images
 A random selection of images from different classes was displayed to visually confirm the variety and quality of the data.
-![leafs](Images\leafs.png)
+![leafs](Images/leafs.png)
+
 
 2. Class Distribution Analysis
 This visualization provided insights into class balance within the dataset, revealing that some classes had significantly more samples than others. 
-![counts](Images\counts.png)
+![counts](Images/counts.png)
 
 ## Modeling
 
