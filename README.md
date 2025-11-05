@@ -21,10 +21,10 @@ To develop an image classification model that can automatically detect and class
 3. How can the sentiment distribution between Apple and Google products be explored and visualized effectively?
 4. Which evaluation metrics (such as accuracy and precision) can be used to assess the model’s performance and ensure its reliability?
 #### Success Criteria
-1. The model achieves an accuracy of 90% or higher on test images.
-2. It correctly identifies and classifies diseases in all three crops.
-3. It has a low number of false results.
-4. A simple system or interface is developed for easy use by farmers.
+1. What types of diseases affect corn, tomato, and potato leaves?
+2. Can image classification accurately identify diseased leaves?
+3. Which model gives the best results in detecting plant leaf diseases?
+4. How can the model’s results be presented in a way that is easy for farmers to understand?
 
 ## STEP 2: Data Understanding
 
