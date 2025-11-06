@@ -126,7 +126,7 @@ The repository contains:
 
 * Jupyter Notebook: [Plant leaf disease detection.ipynb](https://github.com/zippy345/Plant_leaf_disease_classifier_project/blob/master/Plant%20leaf%20disease%20detection.ipynb)
 * Presentation Slides: PDF file [Leaf it to us-compressed.pdf](https://github.com/zippy345/Plant_leaf_disease_classifier_project/blob/master/Leaf%20it%20to%20us-compressed.pdf)
-* Data Report: [data report](https://github.com/zippy345/Tweets_Group_8_project/blob/master/Twitter%20Sentiment%20Analysis%20using%20Natural%) 
+* Data Report: [data report](https://github.com/zippy345/Plant_leaf_disease_classifier_project/blob/master/Leaf%20It%20To%20Us%20Team's%20Data%20Report.pdf) 
 * Model deployment: [Model_deploy](https://github.com/zippy345/Plant_leaf_disease_classifier_project/tree/master/Model_deploy)
 * README.md: Project overview 
 * .gitignore: Specifies files to ignore in version control
