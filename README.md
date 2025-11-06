@@ -11,7 +11,7 @@ Crop diseases such as blight, leaf spots and rust significantly affect the produ
 To develop an image classification model that can automatically detect and classify leaf diseases in corn, tomato, and potato plants.
 
 #### Specific Objectives
-1. To collect and preprocess images of corn, tomato, and potato leaves (both healthy and diseased).
+1. To collect and preprocess images of corn, tomato and potato leaves (both healthy and diseased).
 2. To train and evaluate a machine learning model capable of identifying disease types based on leaf images.
 3. To compare model performance using different classification algorithms.
 4. To provide a simple, user-friendly interface that can assist farmers in identifying crop diseases through image uploads.
