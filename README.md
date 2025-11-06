@@ -125,7 +125,7 @@ Clone the repository and Run the notebook: [Plant leaf disease detection.ipynb](
 The repository contains:
 
 * Jupyter Notebook: [Plant leaf disease detection.ipynb](https://github.com/zippy345/Plant_leaf_disease_classifier_project/blob/master/Plant%20leaf%20disease%20detection.ipynb)
-* Presentation Slides: PDF file [plant disease presentation-compressed.pdf](https://github.com/zippy345/Plant_leaf_disease_classifier_project/blob/master/plant%20disease%20presentation-compressed)
+* Presentation Slides: PDF file [Leaf it to us-compressed.pdf](https://github.com/zippy345/Plant_leaf_disease_classifier_project/blob/master/Leaf%20it%20to%20us-compressed.pdf)
 * Data Report: [data report](https://github.com/zippy345/Tweets_Group_8_project/blob/master/Twitter%20Sentiment%20Analysis%20using%20Natural%) 
 * Model deployment: [Model_deploy](https://github.com/zippy345/Plant_leaf_disease_classifier_project/tree/master/Model_deploy)
 * README.md: Project overview 
