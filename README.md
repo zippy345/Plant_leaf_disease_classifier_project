@@ -116,6 +116,7 @@ Deploy the CNN model via Streamlit for farmers or agronomists to upload leaf ima
 2. [Vincent Toroitich](https://github.com/Limo-Vincent)
 3. [Royal Mbugua](https://github.com/Kihiuroyal)
 4. [Marion Mengich](https://github.com/Marionmengich)
+5. [Kenneth Kiplagat](https://github.com/Marionmengich)
 
 ### How to Run the Project
 Clone the repository and Run the notebook: [Plant leaf disease detection.ipynb](https://github.com/zippy345/Plant_leaf_disease_classifier_project/blob/master/Plant%20leaf%20disease%20detection.ipynb)
